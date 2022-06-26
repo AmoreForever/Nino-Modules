@@ -28,7 +28,7 @@ def register(cb):
 class VoicesUzMod(loader.Module): 
  """Voices list""" 
   
- strings = { "name": "#Uzbek Full Memes" } 
+ strings = { "name": "🐳 Uzbek Memes" } 
 
  async def ukajonimcmd(self, message): 
   """Ukajonim meme""" 
